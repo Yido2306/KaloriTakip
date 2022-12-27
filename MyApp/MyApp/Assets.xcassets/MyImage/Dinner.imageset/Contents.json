@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "steak-frites-with-black-garlic-butter-FT-RECIPE1019-b456639447e64237b05376a9d3975274.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
