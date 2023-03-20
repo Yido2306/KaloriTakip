@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
 
         ZStack{
-            LinearGradient(colors: [Color("DarkGreen"),.blue.opacity(0.3)], startPoint: .topLeading, endPoint: .bottomTrailing)
+            LinearGradient(colors: [Color(.red),.blue.opacity(0.3)], startPoint: .topLeading, endPoint: .bottomTrailing)
             VStack{
                 HeaderTopic()
                 Spacer().frame(height:9)
